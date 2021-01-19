@@ -1,0 +1,22 @@
+思路edf
+两个程序交替进行
+int period;//周期
+int cputime;//需要cpu时间
+int remain;//剩余cpu时间
+int pnum;//所处周期数
+int laxity;//松弛度
+
+int period1=10;//任务1周期
+int period2=40;//任务2周期
+int cputime1=5;//1需要的cpu时间
+int cputime2=20;//2需要的cpu时间
+
+int sc=0;
+int time=0//初始时间定为0
+//int jt
+while{
+找到在一个周期里面最小的
+if(time<=)
+
+
+}

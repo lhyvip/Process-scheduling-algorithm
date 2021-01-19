@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lhyvip" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lhyvip" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lhyvip" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AL.cpp" />
+		<Unit filename="AL.h" />
+		<Unit filename="EDF.cpp" />
+		<Unit filename="FCFS.cpp" />
+		<Unit filename="HRRN.cpp" />
+		<Unit filename="LLF.cpp" />
+		<Unit filename="LLFjiagou.txt" />
+		<Unit filename="RR.cpp" />
+		<Unit filename="SJF.cpp" />
+		<Unit filename="SRT.cpp" />
+		<Unit filename="banker.cpp" />
+		<Unit filename="edf_jia_gou.txt" />
+		<Unit filename="jiagou.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mudifcfs.txt" />
+		<Unit filename="mudihrrn.txt" />
+		<Unit filename="mudirr.txt" />
+		<Unit filename="mudisjf.txt" />
+		<Unit filename="yuanfcfs.txt" />
+		<Unit filename="yuanfile.txt" />
+		<Unit filename="yuanhrrn.txt" />
+		<Unit filename="yuanrr.txt" />
+		<Unit filename="yuansjf.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

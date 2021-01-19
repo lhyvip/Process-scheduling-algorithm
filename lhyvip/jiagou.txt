@@ -1,0 +1,58 @@
+
+
+
+1.创建一个进程算法调度总头文件 AL类 {
+里面创建一个结构体来存储进程信息
+struct PCB{
+    int pn;//process name进程名字
+	int at;//arrival time到达时间
+	int st;//service time服务时间
+	int bt;//begin time开始时间
+	int ct;//completion time完成时间
+	int sc;/    /yes or no completion是否完成
+	int zt;//周转时间
+	double dt;// 带权周转时间
+	int st1;//剩余服务时间
+}process[D];
+
+int read()；从txt中读取数据返回行数
+同时实现如下算法
+void write()
+void print_choose();
+void choose();
+void FCFS();
+void RR();
+void SRT();
+void SJF();
+void HRRN();
+void EDF();//非抢占 最早截止时间优先算法
+void LLF()//最低松弛度算法
+void banker()//银行家算法
+
+}
+
+2.创建一个AL.c{
+实现
+void print_choose();//打印菜单
+void choose();//菜单选项
+int read()；从txt中读取数据返回行数
+void write()
+
+}
+
+
+3.为每个算法调度函数创建一个.c文件来实现{
+
+void FCFS();
+void RR();
+void SRT();
+void SJF();
+void HRRN();
+
+}
+
+4.再main函数里面导入包{
+
+调用print_choose()//完成所有
+
+}

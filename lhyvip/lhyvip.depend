@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1606577210 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\main.cpp
+	<iostream>
+	"AL.h"
+
+1606554239 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\srt.cpp
+	"AL.h"
+	<stdio.h>
+
+1606511222 c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\pcb.h
+
+1606578696 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\fcfs.cpp
+	"AL.h"
+	<iostream>
+	<algorithm>
+	<fstream>
+
+1606581921 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\hrrn.cpp
+	"AL.h"
+	<iostream>
+	<algorithm>
+
+1606614894 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\rr.cpp
+	"AL.h"
+	<iostream>
+	<queue>
+
+1606582709 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\sjf.cpp
+	"AL.h"
+	<iostream>
+	<algorithm>
+
+1606510850 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\choose.cpp
+	<iostream>
+	<stdlib.h>
+	"PCB.h"
+
+1606616118 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\al.cpp
+	"AL.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+
+1606632877 c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\al.h
+	<iostream>
+	<string>
+
+1606741546 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\banker.cpp
+	"AL.h"
+	<iostream>
+	<stdio.h>
+
+1606741363 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\llf.cpp
+	"AL.h"
+	<iostream>
+
+1606658451 source:c:\users\梁瀚余\desktop\大三学习文档\操作系统\code\lhyvip\edf.cpp
+	"AL.h"
+	<iostream>
+	<fstream>
+
